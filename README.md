@@ -1,6 +1,6 @@
 # RL_ASI
 Reinforcement learning with GYM library in Goggle Collab
-
+Link to Google Collab: https://colab.research.google.com/drive/1ej8ZMtdeiGvAXMLqhTFsRNs2srVhhM09?usp=sharing
 
 Videos of Lunar Lander and Cart Pole
 
